@@ -1,14 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bladimir Fernández López</h1>
 <h3 align="center">
-Security Engineer • Infrastructure & Network Engineer • IT Operations Project Manager
+Security Engineer • Infrastructure & Network Engineer • Linux Engineer • Cloud Engineer
 </h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/bladimir-fernandez-lopez/">
     <img src="https://img.shields.io/badge/LinkedIn-Bladimir_Fernández_López-0A66C2?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="mailto:it.bladimir.fernandez@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail">
   </a>
 </p>
 
@@ -16,7 +13,7 @@ Security Engineer • Infrastructure & Network Engineer • IT Operations Projec
 
 # 🚀 About Me
 
-I'm a Security Engineer and Infrastructure Professional with experience across:
+I'm a Senior Engineer and Infrastructure Professional with experience across:
 
 - Cybersecurity Operations
 - Network Engineering
@@ -206,16 +203,3 @@ Currently focused on:
 
 - LinkedIn: https://linkedin.com/in/bladimir-fernandez-lopez/
 - GitHub: https://github.com/BladimirF7
-- Email: it.bladimir.fernandez@gmail.com
-
----
-
-# ⚠️ Disclaimer
-
-All repositories and examples shared here are:
-- Sanitized
-- Public-safe
-- Educational
-- Lab-based or generalized operational examples
-
-No confidential client infrastructure, credentials, or proprietary configurations are published.
