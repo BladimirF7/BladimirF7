@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bladimir Fernández López</h1>
 <h3 align="center">
-Security Engineer • Infrastructure & Network Engineer • Linux Engineer • Cloud Engineer
+Senior Engineer | Infrastructure • Networking • Security • Cloud • Automation • Linux
 </h3>
 
 <p align="center">
@@ -13,7 +13,11 @@ Security Engineer • Infrastructure & Network Engineer • Linux Engineer • C
 
 # 🚀 About Me
 
-I'm a Senior Engineer and Infrastructure Professional with experience across:
+Senior Engineer with multidisciplinary expertise across infrastructure, networking, cloud operations, Linux systems, monitoring, automation, and security operations.
+
+Experienced in designing, supporting, automating, and securing enterprise environments across cloud and on-premise data center infrastructures.
+
+Focused on operational excellence, observability, infrastructure reliability, and scalable engineering practices:
 
 - Cybersecurity Operations
 - Network Engineering
