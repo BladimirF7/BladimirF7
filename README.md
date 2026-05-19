@@ -112,6 +112,32 @@ My background includes hands-on work with:
 
 # 📂 Featured Projects
 
+# Security Engineering Playbooks
+
+![Linux](https://img.shields.io/badge/Linux-Infrastructure-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Zabbix](https://img.shields.io/badge/Zabbix-Monitoring-CC0000?style=for-the-badge)
+![Graylog](https://img.shields.io/badge/Graylog-Logging-FF3633?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E?style=for-the-badge&logo=amazonaws)
+![Security](https://img.shields.io/badge/Security-Operations-2E8B57?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-Bash_Scripting-1E90FF?style=for-the-badge)
+
+Production-grade security engineering playbooks, operational procedures, hardening standards, monitoring architectures, and infrastructure security documentation.
+
+---
+
+# 📚 Repository Sections
+
+| Section | Description |
+|---|---|
+| `incident-response/` | Security incident response procedures and workflows |
+| `linux-hardening/` | Linux security baselines and hardening standards |
+| `monitoring-observability/` | Monitoring architecture and operational visibility |
+| `compliance/` | Governance, compliance, and vulnerability management |
+| `cloud-security/` | Cloud security baselines and operational controls |
+| `network-security/` | Network segmentation and infrastructure security |
+| `scripts/` | Automation scripts and operational tooling |
+| `diagrams/` | Architecture diagrams and infrastructure visualizations |
+
 ## 🔐 Security Engineering Playbooks
 Production-grade security procedures, compliance checklists, and operational runbooks.
 
