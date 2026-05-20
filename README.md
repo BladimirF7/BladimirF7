@@ -2,10 +2,10 @@
 
 <h3 align="center">
 Senior Engineer | Infrastructure • Networking • Security • Cloud • Automation • Observability
-</h3>
+</h3><br/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bladimir-fernandez-lopez/">
+  <a href="https://www.linkedin.com/in/bladimir-fernandez-lopez/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Bladimir_Fernández_López-0A66C2?style=for-the-badge&logo=linkedin">
   </a>
 </p>
