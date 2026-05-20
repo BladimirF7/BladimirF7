@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Bladimir Fernández López</h1>
-<h3 align="center">
-Senior Engineer | Infrastructure • Networking • Security • Cloud • Automation • Linux
-</h3>
+# Bladimir Fernández López
+
+Senior Engineer | Infrastructure • Networking • Security • Cloud • Automation • Observability
 
 <p align="center">
   <a href="https://linkedin.com/in/bladimir-fernandez-lopez/">
@@ -11,199 +10,179 @@ Senior Engineer | Infrastructure • Networking • Security • Cloud • Autom
 
 ---
 
-# 🚀 About Me
+## 👨‍💻 About Me
 
-Senior Engineer with multidisciplinary expertise across infrastructure, networking, cloud operations, Linux systems, monitoring, automation, and security operations.
+I am a multidisciplinary Senior Engineer focused on infrastructure operations, network engineering, Linux operations, monitoring & observability, infrastructure automation, and security operations.
 
-Experienced in designing, supporting, automating, and securing enterprise environments across cloud and on-premise data center infrastructures.
+My experience includes designing, operating, monitoring, troubleshooting, automating, and documenting enterprise and MSP infrastructure environments across:
+- Linux infrastructure
+- Network engineering
+- Monitoring & observability platforms
+- Infrastructure automation
+- VPN & connectivity solutions
+- Security operations
+- Cloud infrastructure
+- Operational tooling & telemetry
 
-Focused on operational excellence, observability, infrastructure reliability, and scalable engineering practices:
-
-- Cybersecurity Operations
-- Network Engineering
-- Linux Infrastructure
-- Cloud Platforms
-- Compliance & Governance
-- Monitoring & Observability
-- IT Operations Project Management
-
-I currently work in security leadership and infrastructure operations, helping organizations improve:
-
-- Security posture
-- Compliance readiness
-- Infrastructure reliability
-- Monitoring visibility
-- Automation workflows
-- Incident response capabilities
-
-My background includes hands-on work with:
-
-- Enterprise Networking
-- Cloud Infrastructure
-- Security Engineering
-- Linux Systems Administration
-- WordPress Hosting Infrastructure
-- MSP Operations
-- Technical Project Leadership
+I specialize in combining:
+- operational reliability
+- infrastructure visibility
+- automation workflows
+- monitoring maturity
+- documentation standards
+- scalable operational practices
 
 ---
 
-# 🛡️ Areas of Expertise
+# 🎯 Core Focus Areas
 
-## Security Engineering
-- ISO 27001
-- SOC 2 Type I & II
-- HIPAA Readiness
-- Vulnerability Management
-- Security Incident Response
-- Security Awareness Programs
-- OWASP Top 10
-- SonarQube Security Analysis
-- CrowdStrike
-- Microsoft Defender
-- Cloudflare Security
+- Infrastructure Engineering
+- Linux Operations
+- Network Engineering
+- Monitoring & Observability
+- Infrastructure Automation
+- Security Operations
+- Cloud Infrastructure
+- Operational Visibility
+- Telemetry & Logging
+- Technical Documentation
+
+---
+
+# 🏗️ Infrastructure & Technologies
+
+## Infrastructure
+- Linux (Ubuntu, AlmaLinux, CentOS)
+- Docker
+- Virtualization
+- Infrastructure Operations
+- Backup & Recovery
 
 ## Networking
 - Arista
 - Cisco Nexus
 - A10 Networks
-- BGP
+- WireGuard
 - VLANs / VRFs / ACLs
-- CGNAT
-- VPN Technologies
-- Network Telemetry
-- SNMP Monitoring
-
-## Linux & Infrastructure
-- Ubuntu
-- AlmaLinux
-- CentOS
-- NGINX
-- Apache
-- LiteSpeed
-- MySQL / MariaDB
-- Redis
-- HAProxy
-- Docker
-- KVM
-- ZFS
-- Bash Scripting
-
-## Cloud & DevOps
-- AWS
-- Google Cloud Platform
-- Azure
-- Cloudflare
-- Infrastructure Automation
-- CI/CD Concepts
-- YAML
-- GitHub
-- Python & Bash scripting
+- Infrastructure Segmentation
 
 ## Monitoring & Observability
 - Zabbix
 - Graylog
-- Site24x7
-- PagerDuty
-- System Telemetry
-- Log Analysis
+- SNMP
+- Telemetry Workflows
+- Infrastructure Dashboards
+- Centralized Logging
+
+## Cloud & Security
+- AWS
+- Cloudflare
+- MFA
+- Vulnerability Management
+- Infrastructure Security
+- Security Operations
+
+## Automation
+- Bash
+- Python
+- REST APIs
+- Infrastructure Automation
+- Operational Tooling
 
 ---
 
-# 📂 Featured Projects
+# 📚 Featured Engineering Repositories
 
 ## 🔐 Security Engineering Playbooks
-Production-grade security procedures, compliance checklists, and operational runbooks.
+Production-grade security engineering playbooks, operational procedures, hardening standards, monitoring baselines, and incident response documentation.
 
-### Topics:
-- Incident Response
-- Vulnerability Management
-- Patch Management
-- Security Hardening
-- Compliance Documentation
+Repository:
+👉 https://github.com/BladimirF7/security-engineering-playbooks
 
 ---
 
 ## 🌐 Network Automation Toolkit
-Network engineering scripts and operational tooling for infrastructure automation.
+Infrastructure automation scripts, telemetry integrations, orchestration workflows, infrastructure visibility tooling, and network operational procedures.
 
-### Topics:
-- Configuration validation
-- Network telemetry
-- SNMP data collection
-- Infrastructure auditing
-- Automation workflows
+Repository:
+👉 https://github.com/BladimirF7/network-automation-toolkit
 
 ---
 
 ## 🐧 Linux Operations Toolkit
-Collection of Linux operational scripts, troubleshooting procedures, and automation utilities.
+Linux operational tooling, troubleshooting workflows, infrastructure automation, system hardening practices, and operational engineering procedures.
 
-### Topics:
-- Server hardening
-- Performance tuning
-- Service troubleshooting
-- System automation
-- Infrastructure maintenance
+Repository:
+👉 https://github.com/BladimirF7/linux-operations-toolkit
 
 ---
 
-## 📊 Monitoring & Observability
-Examples and tooling related to:
-- Zabbix
-- Graylog
-- System monitoring
-- Alerting strategies
-- Operational visibility
+## 📊 Monitoring & Observability Lab
+Monitoring architectures, telemetry integrations, logging pipelines, alerting standards, and operational visibility workflows.
+
+Repository:
+👉 https://github.com/BladimirF7/monitoring-observability-lab
 
 ---
 
-## ☁️ Cloud Infrastructure Automation
-Cloud deployment examples and infrastructure provisioning concepts.
+# 📈 Engineering Focus
 
-### Platforms:
-- AWS
-- GCP
-- Azure
-- Cloudflare
-
----
-
-# 🧰 Technologies & Tools
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,python,docker,nginx,mysql,redis,aws,gcp,azure,cloudflare,github,vscode" />
-
-</p>
+My repositories focus on:
+- operational maturity
+- infrastructure reliability
+- observability engineering
+- infrastructure automation
+- enterprise operational practices
+- monitoring consistency
+- telemetry visibility
+- network operations
+- Linux operations
+- infrastructure documentation standards
 
 ---
 
-# 📈 Current Focus
+# 🧠 Current Areas of Interest
 
-Currently focused on:
-
-- Security Engineering
-- Compliance Readiness
-- Infrastructure Security
-- Network Observability
-- Automation & Monitoring
-- Technical Project Leadership
-- AI-assisted Infrastructure Analysis
-- Security Operations Improvement
-
----
-
-# 📚 Certifications & Training
-
-- Linux Foundation Certified IT Associate (LFCA)
-- Linux Foundation Certified System Administrator (LFCS)
-- Linux Professional Institute DevOps Tools Engineer
-- cPanel & WHM System Administrator I
+- Infrastructure Observability
+- Telemetry Automation
+- Network Visibility
+- Linux Operations
+- Infrastructure Monitoring
+- Operational Tooling
+- Cloud Infrastructure
+- Automation Engineering
+- Security Operations
+- Infrastructure Architecture
 
 ---
 
-# 🤝 Connect With Me
+# 📌 Professional Philosophy
 
-- LinkedIn: https://linkedin.com/in/bladimir-fernandez-lopez/
+I strongly believe in:
+- operational consistency
+- infrastructure visibility
+- proactive monitoring
+- scalable engineering practices
+- automation-first thinking
+- documentation maturity
+- infrastructure reliability
+- continuous operational improvement
+
+---
+
+# 📫 Connect With Me
+
 - GitHub: https://github.com/BladimirF7
+- LinkedIn: https://linkedin.com/in/bladimir-fernandez-lopez/
+
+---
+
+# ⚠️ Disclaimer
+
+All repositories contain:
+- generalized examples
+- sanitized configurations
+- public-safe operational procedures
+- educational infrastructure workflows
+
+No confidential infrastructure data, customer information, or proprietary operational details are included.
