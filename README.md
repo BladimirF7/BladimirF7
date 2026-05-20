@@ -1,9 +1,11 @@
-<center># Bladimir Fernández López </center>
+<h1 align="center">Bladimir Fernández López</h1>
 
-<center>Senior Engineer | Infrastructure • Networking • Security • Cloud • Automation • Observability </center>
+<h3 align="center">
+Senior Engineer | Infrastructure • Networking • Security • Cloud • Automation • Observability
+</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/bladimir-fernandez-lopez/">
+  <a href="https://www.linkedin.com/in/bladimir-fernandez-lopez/">
     <img src="https://img.shields.io/badge/LinkedIn-Bladimir_Fernández_López-0A66C2?style=for-the-badge&logo=linkedin">
   </a>
 </p>
