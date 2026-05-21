@@ -8,6 +8,10 @@ Senior Engineer | Infrastructure • Networking • Security • Cloud • Autom
   <a href="https://www.linkedin.com/in/bladimir-fernandez-lopez/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Bladimir_Fernández_López-0A66C2?style=for-the-badge&logo=linkedin">
   </a>
+
+  <a href="https://www.upwork.com/freelancers/~01bed90961c571d671" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-Top_Rated_Plus_100%25_Job_Success-14A800?style=for-the-badge&logo=upwork&logoColor=white">
+  </a>
 </p>
 
 ---
